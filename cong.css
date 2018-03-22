@@ -1,0 +1,37 @@
+body{
+	background-image:url('http://pa1.narvii.com/6428/07f21bac684857a445d06f0cba062d55c74bccae_hq.gif');
+    background-size:cover;
+	background-repeat: no-repeat round;
+	background-repeat:repeat round;
+	background-attachment: fixed;
+    height:100%;
+    width:100%;
+    display: inline-block;
+	font-family:Orbitron;
+}
+div{
+	margin-right:12%;
+	margin-top:10%;
+	font-size:40px;
+}
+p{
+	color:#F00;
+	size:40px;
+	margin-right:125;
+	align:center;
+	font-weight:900;
+	text-shadow:-2px 0 #C0C0C0, 0 2px #C0C0C0, 2px 0 #C0C0C0, 0 -2px #C0C0C0;
+}
+button{
+	color: #C0C0C0;
+	font-style:Courier New;
+	font-size:16px;
+	font-weight:bold;
+	border-radius: 6px;
+	border-size: 1px;
+	background-color:red;
+	box-shadow: 0px 1px 0px 0px #C0C0C0 inset;
+	height: 50px;
+	width: 90px;
+	font-family:Orbitron;
+}

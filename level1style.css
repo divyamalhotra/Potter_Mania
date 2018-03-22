@@ -1,0 +1,53 @@
+*{
+    font-family: 'Henny Penny';
+    
+}
+body {
+    background-image:url('original.gif');
+
+    background-size:cover;
+   /* animation: animatedBackground 60s linear infinite;*/
+    background-repeat: no-repeat ;
+    background-position: center;
+        background-attachment: fixed;
+    height:100%;
+    width:100%;
+    display: inline-block;/*not doing anything*/
+    /*-webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;*/
+   /* -webkit-animation-iteration-count:160s;
+    -webkit-animation-timing-function:large;*/
+    font-size: 18px;
+  text-align: center;
+  padding: 20px 0;
+  color: white;
+ 	  padding: 0.0001% 0;
+margin-top: 0;
+margin-bottom: 0;
+
+    
+}
+#q1{
+      font-size: 40px;
+
+}
+@keyframes animateBorder {
+  to {
+    outline-color: grey;
+    /*box-shadow: 0 0 0 6px white;*/
+    outline-offset: 10px;
+    font-size: 19px;
+  }
+}
+
+#ques{
+   outline: 4px dashed white;
+    /*box-shadow: 1 1 1px 6px white;*/
+    
+    width: 90%;
+    height: 80%;
+    -moz-border-radius: 25px;
+ animation: 1s animateBorder infinite;
+  margin-left:6%;
+  font-family: 'Henny Penny';
+}

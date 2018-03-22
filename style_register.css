@@ -1,0 +1,39 @@
+ body {
+    background-image:url('loopingImage.gif');
+    background-size:cover;
+    background-repeat: no-repeat round;
+    background-repeat:repeat round;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+    display: inline-block;/*not doing anything*/
+    
+}
+h1,h3{
+  font-family: Metal Mania;
+  line-height: 0;
+  
+}
+#select {
+  font-size: 60px;
+  text-align: center;
+  padding: 20px 0;
+  color: white;
+}
+
+form{
+  text-align: center;
+  font-family: Princess Sofia;
+  color: white;
+  margin: 0 auto;
+  width: 500px;
+  padding: 1px 90px;
+  border-style: dashed;
+  border-radius: 1em;
+}
+h3{
+	font-size: 60px;
+  text-align: center;
+  padding: 20px 0;
+  color: white;
+}

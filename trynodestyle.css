@@ -1,0 +1,25 @@
+body{
+  background-image:url('original.gif');
+   background-size:cover;
+   /* animation: animatedBackground 60s linear infinite;*/
+    background-repeat: no-repeat ;
+    background-position: center;
+        background-attachment: fixed;
+    height:100%;
+    width:100%;
+    
+}
+#q{
+	text-align:center;
+	font-family: Parry Hotter; 
+	font-size: 30px;
+	color: white;
+}
+#heading,header{
+	font-family: Parry Hotter;
+	color: white;
+}
+#header2{
+	margin: 0 auto;
+	padding-top: 0px;
+}

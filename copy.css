@@ -1,0 +1,71 @@
+body {
+    background-image:url('http://www.misucell.com/data/out/8/IMG_258624.gif');
+    background-size:cover;
+  
+    background-repeat: no-repeat round;
+    background-repeat:repeat round;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+    display: inline-block;/*not doing anything*/
+    /*-webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;*/
+   /* -webkit-animation-iteration-count:160s;
+    -webkit-animation-timing-function:large;*/
+    font-size: 19px;
+  text-align: center;
+  padding: 20px 0;
+  color: white;
+  font-family: 'Henny Penny';
+ 	  padding: 0.0001% 0;
+margin-top: 0;
+margin-bottom: 0;
+
+    
+}
+@keyframes animateBorder {
+  to {
+    outline-color: #2DC5FC;
+    box-shadow: 0 0 0 6px white;
+  }
+}
+#ques{
+	 outline: 6px dashed white;
+    box-shadow: 0 0 0 6px #2DC5FC;
+	animation: 1s animateBorder infinite;
+	margin-right:6%;
+	font-family: 'Emilys Candy';
+}
+p{
+	color: white;	
+}
+ul{
+	color: white;
+}
+#demo{
+	color:#FFF;
+}
+#out{
+	color:#2DC5FC;
+	text-shadow:-2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+}
+h2{
+	color:#2DC5FC;
+	text-shadow:-2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+}
+button{
+	color: white;
+	font-style:Courier New;
+	font-size:16px;
+	font-weight:bold;
+	border-radius: 6px;
+	border-size: 1px;
+	background-color:#2DC5FC;
+	box-shadow: 0px 1px 0px 0px white inset;
+	height: 50px;
+	width: 90px;
+}
+textarea{
+	height:40px;
+	width:250px;
+}

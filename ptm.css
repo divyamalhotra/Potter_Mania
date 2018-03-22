@@ -1,0 +1,41 @@
+@CHARSET "ISO-8859-1";
+body{
+	 background:url('http://image.blingee.com/images16/content/output/000/000/000/526/393326842_603034.gif');
+	 background-size:100% 112%;
+}
+audio{
+	display:none;
+}
+h1{
+	text-shadow:-3px 0 white, 0 3px white, 3px 0 white, 0 -3px white, 5px 5px 20px #00FF00;
+}
+#t1{
+	font-family: Eater;
+	font-size: 200;
+	color: yellow; 
+	margin-top: 0px;
+	text-shadow:-3px 0 red, 0 3px red, 3px 0 red, 0 -3px red, 5px 5px 10px red;
+	font-style: bold;
+}
+.button2{
+	font-size:40px; 
+	font-family:Parry Hotter;
+	color:orange; 
+	background-color:green; 
+	margin-left: 60%;
+	height:80px; 
+	text-align:center;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}#b7{	margin-top: 10%;		margin-bottom: -10%;	width: 400px;}
+#b8{
+	margin-top: 10%;
+	width: 400px;
+}
+#b9{
+	margin-top: 0;
+	width: 400px;
+}
+#b10{
+	margin-top: 0;
+	width: 400px;
+}
