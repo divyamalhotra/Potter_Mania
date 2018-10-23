@@ -1,1 +1,1 @@
-It was based on Harry Potter theme and included questions related to programming.
+It is based on Harry Potter theme and includes questions related to programming.
